@@ -1,4 +1,4 @@
-For using the OrgDbSettings Update&Retrieve actions, you can create a customized entity linke this one:
+For using the OrgDbSettings Update&Retrieve actions, you can create a customized entity like this one:
 
 ![](OrgDBSettingsExample1.png)
 
